@@ -6,7 +6,7 @@
 
 ## 💫 About me 
 
-I am Trakser And code in C, C++, Python, Java and HTML
+I am Trakser, and I code in C, C++, Python, Java and HTML
 
 
 ## 📬 Contact
